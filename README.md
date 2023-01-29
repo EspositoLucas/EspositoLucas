@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Esposito</h1>
-<h3 align="center">I'm currently a Systems Information Engineering student at the National Technological University of Buenos Aires (UTN FRBA) and also studying topics related with Data Analysis</h3>
+<h3 align="center">I'm currently a Systems Information Engineering student at the National Technological University of Buenos Aires (UTN FRBA) and also studying topics related with Data Analysis  <a href="https://github.com/EspositoLucas/Data-Analyst-Portfolio-Project-Repository" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="30" height="30"/> </a> </h3>
 
 - 🌱 I’m currently learning **Data Analysis on Python, SQL on SQL Server, Excel and some Data Vizualizations such as Power BI and Tableau**
 

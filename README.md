@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/EspositoLucas"><img src="https://img.shields.io/badge/-EspositoLucas-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/lucas-esposito-tejerina-72b442235/"><img src="https://img.shields.io/badge/-Lucas%20Esposito Tejerina%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:espositolucas2002@gmail.com"><img src="https://img.shields.io/badge/-espositolucas2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=espositolucas2002@gmail.com"><img src="https://img.shields.io/badge/-espositolucas2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 
 <h3 align="left">Languages and Tools used in projects and repositories:</h3>
@@ -25,3 +25,23 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true" alt="EspositoLucas's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## 📚 My tech stack
+
+- ⭐ = Current
+- 🎯 = 2023 goal
+
+
+<table>
+  <tr>
+    <td>
+  
+### Principal Languages
+
+| Language   | Rating     |
+| ---------- | ---------- |
+| Excel     | ⭐⭐⭐⭐🎯|
+| SQL       | ⭐⭐⭐⭐🎯|
+| Python    | ⭐⭐⭐🎯|
+| Power BI  | ⭐⭐⭐🎯|
+| Tableau   | ⭐⭐⭐🎯|

@@ -21,3 +21,6 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
 </p>
+
+| <a href="https://github.com/EspositoLucas/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true" alt="EspositoLucas's github stats" /></a> | <a href="https://github.com/EspositoLucas/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |

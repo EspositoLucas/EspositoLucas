@@ -23,8 +23,10 @@
 
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true" alt="EspositoLucas's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p align="center">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&langs_count=8&theme=github_dark"/>
+  </p>
 
 ## 📚 My tech stack
 

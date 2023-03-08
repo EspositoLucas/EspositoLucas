@@ -7,8 +7,6 @@
 
 - 👨‍💻 The projects I'm working on are available at: [https://espositolucas.github.io/DataWeb.github.io/](https://espositolucas.github.io/DataWeb.github.io/)
 
-- 📫 How to reach me: **espositolucas2002@gmail.com**
-
 - ⚡ Fun fact: **I was born the same day as Bruce Willis**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,3 +1,5 @@
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJlNzk2YzQyY2I3MTZkYTg2ZjZkNTc0ZDE1MGJkN2UxNDY2MjNhYyZjdD1z/ZcufRAqudIYpZXkoPG/giphy.gif" width="130" height="130">
+
 <h1 align="center">Hi 👋, I'm Lucas Esposito</h1>
 <h3 align="center">I'm currently a Systems Information Engineering student at the National Technological University of Buenos Aires (UTN FRBA) and also studying topics related with Data Analysis  <a href="https://github.com/EspositoLucas/Data-Analyst-Portfolio-Project-Repository" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="30" height="30"/> </a> </h3>
 

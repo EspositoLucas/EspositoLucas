@@ -29,6 +29,10 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168073.png" alt="php" width="80" height="40"/> </a>
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="php" width="90" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/512px-SCIPY_2.svg.png?20200904111722" alt="php" width="40" height="40"/> </a>
+   <a href="https://www.swift.org/getting-started/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/732/732250.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/studio/install" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/android-studio--v2.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/typescript.png" alt="php" width="40" height="40"/> </a>
+  <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="php" width="40" height="40"/> </a>
 
 </p>
 

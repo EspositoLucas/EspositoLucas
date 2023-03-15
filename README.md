@@ -33,6 +33,8 @@
   <a href="https://developer.android.com/studio/install" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/android-studio--v2.png" alt="php" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/typescript.png" alt="php" width="40" height="40"/> </a>
   <a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://handlebarsjs.com/images/handlebars_logo.png" alt="php" width="40" height="40"/> </a>
+   <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://fndomariano.github.io/images/2020-12-23/streamlit.png" alt="php" width="60" height="40"/> </a>
+  
 
 </p>
 

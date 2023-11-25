@@ -44,6 +44,10 @@
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&langs_count=8&theme=github_dark"/>
   </p>
+  
+## 🎓 My Career (UTN)
+![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/e17927c8-b0d7-40a8-afbe-1fb26f588d39)
+
 
 ## 📚 My tech stack
 

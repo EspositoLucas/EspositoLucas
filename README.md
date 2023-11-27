@@ -46,8 +46,7 @@
   </p>
   
 ## 🎓 My Career (UTN)
-![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/e17927c8-b0d7-40a8-afbe-1fb26f588d39)
-
+![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/a6af3e9a-d041-4de7-8961-736762ab59e4)
 
 ## 📚 My tech stack
 

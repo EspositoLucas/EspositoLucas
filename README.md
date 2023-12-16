@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Esposito</h1>
 <h3 align="center">I'm currently a Systems Information Engineering Student at the National Technological University of Buenos Aires (UTN FRBA) and also studying topics related with Data Analysis  <a href="https://github.com/EspositoLucas/Data-Analyst-Portfolio-Project-Repository" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="30" height="30"/> </a> </h3>
 
-- 🌱 I’m currently learning **Data Analysis using Python, SQL, Excel and some Data Visualizations such as Power BI and Tableau**
+- 🌱 I’m currently learning **Data Analysis using Python, SQL, Excel and some Data Visualizations tools such as Power BI and Tableau**
 
 - 👨‍💻 The projects I'm working on are available at: [https://espositolucas.github.io/DataWeb.github.io/](https://espositolucas.github.io/DataWeb.github.io/)
 

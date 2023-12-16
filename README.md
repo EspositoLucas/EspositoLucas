@@ -9,8 +9,6 @@
 
 - 👨‍💻 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 
-- 📄 Digital Resume: https://digital-cv-w9ao.onrender.com/
-
 - 🙋‍♂️ Social Media: https://linktr.ee/espositolucas
 
 - ⚡ Fun fact: **I was born the same day as Bruce Willis**

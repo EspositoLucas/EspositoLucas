@@ -58,7 +58,7 @@
   <tr>
     <td>
   
-### Principal Languages
+### Data Analysis
 
 | Language   | Rating     |
 | ---------- | ---------- |

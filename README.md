@@ -51,7 +51,7 @@
 ## 📚 My tech stack
 
 - ⭐ = Current
-- 🎯 = 2023 goal
+- 🎯 = 2024 goal
 
 
 <table>

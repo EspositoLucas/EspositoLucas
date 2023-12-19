@@ -48,7 +48,7 @@
 ## 🎓 My Career (UTN)
 ![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/36fccdfd-d7bc-42a4-a64f-93e386e0f30b)
 
-## 📚 My tech stack
+## 📚 My Tech Stack
 
 - ⭐ = Current
 - 🎯 = 2024 goal

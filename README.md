@@ -54,16 +54,21 @@
 - 🎯 = 2024 goal
 
 
-<table>
+<table border = 5 >
   <tr>
     <td>
   
 ### Data Analysis
 
-| Language   | Rating     |
-| ---------- | ---------- |
+| Language   | Rating |
+| ---------- | ---------|
 | Excel     | ⭐⭐⭐⭐🎯|
 | SQL       | ⭐⭐⭐⭐🎯|
 | Python    | ⭐⭐⭐🎯|
 | Power BI  | ⭐⭐⭐🎯|
-| Tableau   | ⭐⭐⭐🎯|
+| Tableau   | ⭐⭐⭐🎯 |
+
+</td>
+
+</tr>
+</table>

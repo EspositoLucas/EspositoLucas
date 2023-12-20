@@ -86,5 +86,20 @@
 
 </td>
 
+ <td>
+  
+### Database Management
+
+| Name       |  Rating   |   
+| -----------| ---------- | 
+| SQL Server | ⭐⭐⭐ 🎯| 
+| MySQL     | ⭐⭐🎯 |    
+| PostgreSQL | 🎯🎯  |
+
+</td>
+
 </tr>
 </table>
+
+
+

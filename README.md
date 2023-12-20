@@ -90,11 +90,97 @@
   
 ### Database Management
 
-| Name       |  Rating   |   
+| SW       |  Rating   |   
 | -----------| ---------- | 
-| SQL Server | ⭐⭐⭐ 🎯| 
+| SQL Server | ⭐⭐⭐🎯| 
 | MySQL     | ⭐⭐🎯 |    
 | PostgreSQL | 🎯🎯  |
+
+</td>
+
+ <td>
+  
+### Dev Ops
+
+| Technology |  Rating   |   
+| -----------| ---------- | 
+| Git |⭐⭐⭐🎯| 
+| Linux |⭐⭐🎯 |    
+| HTTP |⭐🎯|
+| SSH/FTTP|🎯|
+
+</td>
+
+ <td>
+  
+### Distributed Computing
+
+| Framework   |  Rating   |   
+| -----------| ---------- | 
+| MapReduce |🎯🎯| 
+| Hadoop    |🎯 |    
+| HDFS | 🎯|
+
+</td>
+
+ <td>
+  
+### Cloud Computing
+
+| Platform   |  Rating   |   
+| -----------| ---------- | 
+| AWS |🎯🎯| 
+| GCP    |🎯🎯 |    
+| Azure | 🎯|
+
+</td>
+
+ <td>
+  
+### Data Processing
+
+| Engine   |  Rating   |   
+| -----------| ---------- | 
+| Spark |🎯🎯🎯| 
+| Kafka |🎯🎯 |    
+| Flink |🎯|
+| AWS Kinesis | 🎯|
+
+</td>
+
+ <td>
+  
+### Data Pipelining
+
+| Workflow   |  Rating   |   
+| -----------| ---------- | 
+| Apache Airflow|🎯🎯🎯| 
+| Apache NiFi |🎯🎯 |    
+| Astronomous |🎯|
+
+</td>
+
+ <td>
+  
+### Storage
+
+| Service   |  Rating   |   
+| -----------| ---------- | 
+| AWS S3|🎯🎯| 
+| GCS |🎯🎯 |    
+
+</td>
+
+ <td>
+  
+### Data Warehouse
+
+| SW |  Rating   |   
+| -----------| ---------- | 
+| Apache Hive |🎯🎯🎯| 
+| Snowflake|🎯🎯 |    
+| Amazon Redshift |🎯|
+| Google Big Query | 🎯|
 
 </td>
 

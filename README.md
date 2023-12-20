@@ -49,7 +49,17 @@
 <p align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=EspositoLucas&show_icons=true&bg_color=0d1117&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EspositoLucas&layout=compact&langs_count=8&theme=github_dark"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=EspositoLucas&count_private=true&theme=git-dark&border_radius=10" alt="streak stats"/>  
   </p>
+
+
+  <div align="left">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
   
 ## 🎓 My Career (UTN)
 ![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/36fccdfd-d7bc-42a4-a64f-93e386e0f30b)

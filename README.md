@@ -3,7 +3,7 @@
 <!--- <h1 align="center">Hi 👋, I'm Lucas </h1>--->
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteouse&size=35&duration=4000&color=A91B3D&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Lucas!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteouse&size=55&duration=4000&color=A91B3D&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+👋;+I'm+Lucas!;" />
 </h1>
 
 

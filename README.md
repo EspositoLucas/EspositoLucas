@@ -11,8 +11,6 @@
 
 - 🌱 Lately, I'm learning **Data Analysis using Python, SQL, Excel and some Data Visualizations tools such as Power BI and Tableau**
 
-- 👨‍💻 The projects I'm working on are available at: [https://espositolucas.github.io/DataWeb.github.io/](https://espositolucas.github.io/DataWeb.github.io/)
-
 - 👨‍💻 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 
 - 🙋‍♂️ Social Media: https://linktr.ee/espositolucas

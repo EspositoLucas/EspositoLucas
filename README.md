@@ -70,7 +70,7 @@
   
 ## 🎓 My Career (UTN)
 
-![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/7973676c-b6d5-4869-8144-5872e8847f9a)
+![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/2fd02204-a20a-4c72-a4a8-50126407fcab)
 
 
 ## 💼 My Projects

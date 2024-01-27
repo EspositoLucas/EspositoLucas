@@ -77,7 +77,12 @@
 
 <p>
 
-<a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/EspositoLucas/EspositoLucas/assets/79590470/9b7fa0ab-9525-4a5a-a8d8-9866d6fd7829"/> </a>
+<!-- <a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/EspositoLucas/EspositoLucas/assets/79590470/9b7fa0ab-9525-4a5a-a8d8-9866d6fd7829"/> </a>
+</p>
+
+<p> -->
+
+<a href = "https://espositolucas.github.io/Portfolio-Website/">  ![Screenshot 2024-01-27 at 19 59 40](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/8ec8029b-2f1f-458a-a67e-e821cfae0a3d)</a>
 </p>
 
 

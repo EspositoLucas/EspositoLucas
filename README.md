@@ -82,7 +82,7 @@
 
 <p> -->
 
-<a href = "https://espositolucas.github.io/Portfolio-Website/">  ![Screenshot 2024-01-27 at 19 59 40](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/8ec8029b-2f1f-458a-a67e-e821cfae0a3d)</a>
+<a href = "https://espositolucas.github.io/Portfolio-Website/" target = "_blank">  ![Screenshot 2024-01-27 at 19 59 40](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/8ec8029b-2f1f-458a-a67e-e821cfae0a3d)</a>
 </p>
 
 

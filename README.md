@@ -68,14 +68,6 @@
   <br/><br/><br/> 
 </div> -->
 
-
-<div align="left">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/EspositoLucas/EspositoLucas/blob/output/github-contribution-grid-snake.gif" />
-  
-  <br/><br/><br/> 
-</div> 
   
 ## 🎓 My Career (UTN)
 

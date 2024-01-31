@@ -7,7 +7,7 @@
 </h1>
 
 
-<h3 align="center">I'm currently a Systems Information Engineering Student at the <a href="https://www.frba.utn.edu.ar/" target="_blank" > National Technological University </a> ⵥ and also studying topics related with Data Analysis  <a href="https://github.com/EspositoLucas/Data-Analyst-Portfolio-Project-Repository" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="30" height="30"/> </a> </h3>
+<h3 align="center">I'm currently a Systems Information Engineering Student at the <a href="https://www.frba.utn.edu.ar/" target="_blank" > National Technological University </a> ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="30" height="30"/> </a> </h3>
 
 - 🌱 Lately, I'm learning **Data Analysis using Python, SQL, Excel and some Data Visualizations tools such as Power BI and Tableau**
 

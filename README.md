@@ -81,13 +81,18 @@
 <!-- <a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/EspositoLucas/EspositoLucas/assets/79590470/9b7fa0ab-9525-4a5a-a8d8-9866d6fd7829"/> </a>
 </p>
 
-<p> -->
+<p> 
 
 <a href = "https://espositolucas.github.io/Portfolio-Website/" target = "_blank">  ![Screenshot 2024-01-27 at 19 59 40](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/8ec8029b-2f1f-458a-a67e-e821cfae0a3d)</a>
 </p>
 
+
 [![Portfolio Video](https://espositolucas.github.io/Portfolio-Website/)](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/173f8c80-573b-4848-9647-ae19f2a40fbd)
 
+-->
+
+<a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/EspositoLucas/EspositoLucas/assets/79590470/0661e1a2-5d27-42b7-a436-fe5d0dd81d24"/> </a>
+</p>
 
 ## 📚 My Tech Stack
 

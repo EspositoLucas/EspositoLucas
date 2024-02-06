@@ -69,7 +69,7 @@
 </div> -->
 
   
-## 🎓 My Career (UTN)
+## 🎓 My Career ⵥ
 
 ![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/2fd02204-a20a-4c72-a4a8-50126407fcab)
 

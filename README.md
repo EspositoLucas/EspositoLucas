@@ -1,4 +1,4 @@
-<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJlNzk2YzQyY2I3MTZkYTg2ZjZkNTc0ZDE1MGJkN2UxNDY2MjNhYyZjdD1z/ZcufRAqudIYpZXkoPG/giphy.gif" width="130" height="130">
+<img align='right' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJlNzk2YzQyY2I3MTZkYTg2ZjZkNTc0ZDE1MGJkN2UxNDY2MjNhYyZjdD1z/ZcufRAqudIYpZXkoPG/giphy.gif" width="120" height="120">
 
 <!--- <h1 align="center">Hi 👋, I'm Lucas </h1>--->
 

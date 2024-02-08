@@ -111,8 +111,8 @@
 | Excel     | ⭐⭐⭐⭐🎯|
 | SQL       | ⭐⭐⭐⭐🎯|
 | Python    | ⭐⭐⭐🎯|
-| Power BI  | ⭐⭐⭐🎯|
-| Tableau   | ⭐⭐⭐🎯 |
+| Power BI  | ⭐⭐🎯|
+| Tableau   | ⭐⭐🎯|
 
 </td>
 
@@ -124,7 +124,7 @@
 | -----------| ---------- | 
 | SQL Server | ⭐⭐⭐🎯| 
 | MySQL     | ⭐⭐🎯 |    
-| PostgreSQL | 🎯🎯  |
+| PostgreSQL |⭐🎯  |
 
 </td>
 
@@ -135,7 +135,8 @@
 | Technology |  Rating   |   
 | -----------| ---------- | 
 | Git |⭐⭐⭐🎯| 
-| Linux |⭐⭐🎯 |    
+| Docker |⭐⭐🎯 |
+| Linux |⭐🎯 |  
 | HTTP |⭐🎯|
 | SSH/FTTP|🎯|
 
@@ -171,7 +172,7 @@
 
 | Engine   |  Rating   |   
 | -----------| ---------- | 
-| Spark |🎯🎯🎯| 
+| Spark |🎯🎯| 
 | Kafka |🎯🎯 |    
 | Flink |🎯|
 | AWS Kinesis | 🎯|
@@ -184,7 +185,7 @@
 
 | Workflow   |  Rating   |   
 | -----------| ---------- | 
-| Apache Airflow|🎯🎯🎯| 
+| Apache Airflow|⭐🎯| 
 | Apache NiFi |🎯🎯 |    
 | Astronomous |🎯|
 
@@ -207,7 +208,7 @@
 
 | SW |  Rating   |   
 | -----------| ---------- | 
-| Apache Hive |🎯🎯🎯| 
+| Apache Hive |🎯🎯| 
 | Snowflake|🎯🎯 |    
 | Amazon Redshift |🎯|
 | Google Big Query | 🎯|

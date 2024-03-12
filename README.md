@@ -7,9 +7,13 @@
 </h1>
 
 
-<h3 align="center">I'm currently a Systems Information Engineering Student at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="25" height="25"/> </a> </h3>
+ <!--- <h3 align="center">I'm currently a Systems Information Engineering Student at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="25" height="25"/> </a> </h3> -->
 
-- 🌱 Lately, I'm learning **Data Analysis using Python, SQL, Excel and some Data Visualizations tools such as Power BI and Tableau**
+## 🙋 About me:
+
+- 🧑‍🎓 I'm currently a Systems Information Engineering Student at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a>  ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="25" height="25"/> </a>
+
+- 🌱 Lately, I'm learning Python, SQL, Excel and some Data Visualizations tools such as Power BI and Tableau
 
 - 👨‍💻 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 

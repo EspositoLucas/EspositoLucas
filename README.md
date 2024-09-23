@@ -81,7 +81,7 @@
   
 ## 🎓 My Career ⵥ
 
-![Seguimiento](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/2fd02204-a20a-4c72-a4a8-50126407fcab)
+![Seguimiento](https://github.com/user-attachments/assets/9ec0c088-73e9-41af-a5dd-ede6e5d26962)
 
 
 ## 💼 Portfolio

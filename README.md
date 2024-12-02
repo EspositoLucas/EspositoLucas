@@ -81,7 +81,7 @@
   
 ## 🎓 My Career ⵥ
 
-![Seguimiento](https://github.com/user-attachments/assets/80565785-01c5-400b-9f20-75f2556f53e8)
+![Seguimiento](https://github.com/user-attachments/assets/517924e6-f432-43cc-807e-1f385c758115)
 
 
 ## 💼 Portfolio

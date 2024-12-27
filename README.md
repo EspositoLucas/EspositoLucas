@@ -26,7 +26,7 @@
 ## 📫 Connect with me:
 
 <a href="https://github.com/EspositoLucas"><img src="https://img.shields.io/badge/-EspositoLucas-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/esposito-tejerina-lucas/"><img src="https://img.shields.io/badge/-Lucas%20Espósito Tejerina%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/lucas-esposito-tejerina/"><img src="https://img.shields.io/badge/-Lucas%20Espósito Tejerina%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=espositolucas2002@gmail.com"><img src="https://img.shields.io/badge/-espositolucas2002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 

@@ -100,9 +100,10 @@
 
 [![Portfolio Video](https://espositolucas.github.io/Portfolio-Website/)](https://github.com/EspositoLucas/EspositoLucas/assets/79590470/173f8c80-573b-4848-9647-ae19f2a40fbd)
 
+
 -->
 
-<a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/EspositoLucas/EspositoLucas/assets/79590470/0661e1a2-5d27-42b7-a436-fe5d0dd81d24"/> </a>
+<a href = "https://espositolucas.github.io/Portfolio-Website/">  <img width="100%" src="https://github.com/user-attachments/assets/ebbd1242-ae5e-4ea6-bf52-66860a53b166"/> </a>
 </p>
 
 ## ⚙ My Tech Stack

@@ -45,6 +45,7 @@
 | Python    | ⭐⭐⭐🎯|
 | Power BI  | ⭐⭐⭐🎯|
 | Tableau   | ⭐⭐🎯|
+| Strategy  | 🎯🎯|
 
 </td>
 
@@ -56,7 +57,8 @@
 | -----------| ---------- | 
 | SQL Server | ⭐⭐⭐🎯| 
 | MySQL     | ⭐⭐⭐🎯 |    
-| PostgreSQL |⭐⭐⭐🎯  |
+| PostgreSQL |⭐⭐⭐🎯 |
+| Teradata |⭐⭐🎯 |
 
 </td>
 

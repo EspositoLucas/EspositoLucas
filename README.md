@@ -11,11 +11,11 @@
 
 ## 🙋 About me:
 
-- 🧑‍🎓 I'm currently a Systems Information Engineer at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="25" height="25"/> and Data Engineering <img src="https://cdn-icons-png.freepik.com/256/4233/4233166.png?semt=ais_hybrid" alt="angular" width="25" height="25"/> </a>
+- 👨‍💻 I'm currently a Systems Information Engineer at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis and Data Engineering  </a>
 
 - 🛠️ Lately, I'm learning Python, SQL, Excel and Data Visualizations tools such as Power BI and Tableau
 
-- 👨‍💻 Personal Website: https://espositolucas.github.io/Portfolio-Website/
+- 💼 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 
 - 🙋‍♂️ Social Media: https://linktr.ee/espositolucas
 

@@ -45,7 +45,7 @@
 | Python    | ⭐⭐⭐🎯|
 | Power BI  | ⭐⭐⭐🎯|
 | Tableau   | ⭐⭐🎯|
-| Strategy  | 🎯🎯|
+| Strategy  | ⭐🎯🎯|
 
 </td>
 

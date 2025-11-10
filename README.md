@@ -11,7 +11,7 @@
 
 ## 🙋 About me:
 
-- 👨‍💻 I'm currently a Systems Information Engineer at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis and Data Engineering  </a>
+- 👨‍💻 I'm a systems information engineer graduated at <a href="https://www.frba.utn.edu.ar/" target="_blank"> Unversidad Tecnológica Nacional </a> ⵥ </a>
 
 - 🛠️ Lately, I'm learning Python, SQL, Excel and Data Visualizations tools such as Power BI and Tableau
 

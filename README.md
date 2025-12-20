@@ -29,7 +29,7 @@
 ## ⚙ My Tech Stack
 
 - ⭐ = Current
-- 🎯 = 2025 goal
+- 🎯 = 2026 goal
 
 
 <table border = 5 >
@@ -45,7 +45,7 @@
 | Python    | ⭐⭐⭐🎯|
 | Power BI  | ⭐⭐⭐🎯|
 | Tableau   | ⭐⭐🎯|
-| Strategy  | ⭐🎯🎯|
+| Strategy  | ⭐⭐🎯🎯|
 
 </td>
 
@@ -58,7 +58,7 @@
 | SQL Server | ⭐⭐⭐🎯| 
 | MySQL     | ⭐⭐⭐🎯 |    
 | PostgreSQL |⭐⭐⭐🎯 |
-| Teradata |⭐⭐🎯 |
+| Teradata |⭐⭐⭐🎯🎯 |
 
 </td>
 

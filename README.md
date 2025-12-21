@@ -9,7 +9,7 @@
 
  <!--- <h3 align="center">I'm currently a Systems Information Engineering Student at <a href="https://www.frba.utn.edu.ar/" target="_blank" > Unversidad Tecnológica Nacional </a> ⵥ and also studying topics related with Data Analysis  <img src="https://cdn-icons-png.flaticon.com/512/2782/2782163.png" alt="angular" width="25" height="25"/> </a> </h3> -->
 
-## 🙋 About me:
+## About me:
 
 - 👨‍💻 I'm a systems information engineer graduated at <a href="https://www.frba.utn.edu.ar/" target="_blank"> Unversidad Tecnológica Nacional </a> ⵥ </a>
 

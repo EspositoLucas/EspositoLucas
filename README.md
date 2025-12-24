@@ -46,6 +46,7 @@
 | Power BI  | ⭐⭐⭐🎯|
 | Tableau   | ⭐⭐🎯|
 | Strategy  | ⭐⭐🎯🎯|
+| QuickSight  |🎯🎯🎯|
 
 </td>
 

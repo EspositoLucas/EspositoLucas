@@ -36,7 +36,7 @@
   <tr>
     <td>
   
-### Data Analysis
+### Data Analysis / BI
 
 | Language   | Rating |
 | ---------- | ---------|

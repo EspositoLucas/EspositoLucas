@@ -17,7 +17,7 @@
 
 - 💼 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 
-- 🙋‍♂️ Social Media: https://linktr.ee/espositolucas
+- 🔗 Social Media: https://linktr.ee/espositolucas
 
 ## 📫 Connect with me:
 

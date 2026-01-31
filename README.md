@@ -65,6 +65,19 @@
 
  <td>
   
+### Cloud Computing
+
+| Platform   |  Rating   |   
+| -----------| ---------- | 
+| AWS |⭐🎯🎯| 
+| GCP    |🎯🎯 |    
+| Azure | 🎯|
+| ADA |⭐🎯🎯| 
+
+</td>
+
+ <td>
+  
 ### Dev Ops
 
 | Technology |  Rating   |   
@@ -86,19 +99,6 @@
 | MapReduce |🎯🎯| 
 | Hadoop    |🎯 |    
 | HDFS | 🎯|
-
-</td>
-
- <td>
-  
-### Cloud Computing
-
-| Platform   |  Rating   |   
-| -----------| ---------- | 
-| AWS |⭐🎯🎯| 
-| GCP    |🎯🎯 |    
-| Azure | 🎯|
-| ADA |⭐🎯🎯| 
 
 </td>
 

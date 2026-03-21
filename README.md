@@ -29,7 +29,7 @@
 ## ⚙ My Tech Stack
 
 - ⭐ = Current
-- 🎯 = 2026 goal
+- 🎯 = 2026 Goal
 
 
 <table border = 5 >
@@ -72,7 +72,6 @@
 | AWS |⭐🎯🎯| 
 | GCP    |🎯🎯 |    
 | Azure | 🎯|
-| ADA |⭐🎯🎯| 
 
 </td>
 

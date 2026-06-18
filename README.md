@@ -139,6 +139,17 @@
 
  <td>
   
+### SW/AI Cloud Applications 
+
+| Service   |  Rating   |   
+| -----------| ---------- | 
+| AWS Bedrock |🎯🎯| 
+| AWS SDK |🎯🎯 |    
+
+</td>
+
+ <td>
+  
 ### Data Warehouse
 
 | SW |  Rating   |   

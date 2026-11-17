@@ -13,7 +13,7 @@
 
 - 👨‍💻 I'm a systems information engineer graduated at <a href="https://www.frba.utn.edu.ar/" target="_blank"> Unversidad Tecnológica Nacional</a> ⵥ </a>
 
-- 🏢 Currently working as a Individuals Analyst 1 - Portfolio Analytics at <a href="https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/jobs?locationCountry=e42ad5eac46d4cc9b367ceaef42577c5" target="_blank"> BBVA Argentina </a>  </a> 
+- 🏢 Currently working at <a href="https://bbva.wd3.myworkdayjobs.com/en-US/BBVA/jobs?locationCountry=e42ad5eac46d4cc9b367ceaef42577c5" target="_blank"> BBVA Argentina </a>  </a> 
 
 - 💼 Personal Website: https://espositolucas.github.io/Portfolio-Website/
 
@@ -45,7 +45,7 @@
 | Python    | ⭐⭐⭐🎯|
 | Power BI  | ⭐⭐⭐🎯|
 | Tableau   | ⭐⭐🎯|
-| Strategy  | ⭐⭐🎯🎯|
+| Strategy  | ⭐⭐⭐🎯|
 | Quick |🎯🎯🎯|
 
 </td>
